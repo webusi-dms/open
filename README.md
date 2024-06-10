@@ -2,7 +2,7 @@
 <p align="center">
 	<img alt="logo" src="favicon.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">open v1.0.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">open v1.0.1</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的轻量级数据开放平台</h4>
 <p align="center">
 	<a href="https://gitee.com/webusi/open/stargazers"><img src="https://gitee.com/webusi/open/badge/star.svg?theme=dark"></a>
@@ -26,7 +26,9 @@
 https://www.webusi.net
 
 ## 更新日志
-### 1.0.1 规划中
+### 1.0.1 2024-06-10
+1.  功能：新增SQL接口，支持根据sql语句生成数据接口
+2.  优化：若干Bug
 
 ### 1.0.0 2024-05-10
 1.  功能：数据源管理、数据接口管理、接口授权、IP白名单
